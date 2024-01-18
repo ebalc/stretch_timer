@@ -60,3 +60,6 @@ var/
 
 # Briefcase log files
 logs/
+
+# Exclude pygame directory
+pygame/
